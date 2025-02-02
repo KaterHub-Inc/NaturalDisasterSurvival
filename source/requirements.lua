@@ -11,4 +11,6 @@ return {
   firetouchinterest = firetouchinterest or 0;
   fireclickdetector = fireclickdetector or 0;
   setclipboard = setclipboard or 0;
+	request = (syn and syn.request) or http_request or request or 0;
+	getasset = getsynasset or getcustomasset or 0;
 }
