@@ -1,9 +1,9 @@
 ### requiring executer functions:
- firetouchinterest
- setclipboard
- fireclickdetector
- request
- getasset
+• firetouchinterest
+• setclipboard
+• fireclickdetector
+• request
+• getasset
 
 ```lua
 --[[
