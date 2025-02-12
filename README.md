@@ -4,15 +4,12 @@
   <h3>Required executer functions</h3>
   <p class="discription">• firetouchinterest<br>• setclipboard<br>• fireclickdetector<br>• request<br>• getasset</p>
 </div>
-<div align="center">
-  
-</a>
-  <h2>Script</h2>
+<div align="left">
+  <h2>Loadstring</h2>
     <a href="https://discordapp.com/users/1093061434600075364" target="_blank"><img src="https://img.shields.io/badge/Developer-w2pr-blue"></img></a>  
   </img></a>
 </div>
-
-#### Loadstring
+     
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KaterHub-Inc/NaturalDisasterSurvival/refs/heads/main/main.lua"))()
 ```
