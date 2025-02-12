@@ -1,11 +1,12 @@
 <div align="left">
-  <p class="discription">We are a proud scripting community since 2020 with more than 3 projects.</p>
-   <a href="https://discord.gg/kSBmA2qKEp" target="_blank"><img src="https://img.shields.io/discord/1185906126022266920?logo=discord&label=Join%20our%20Discord!&color=ba34eb">
+  <h2>NDS Hub</h2>
+  <p class="discription">Small and powerful script hub for natural-disasters-survival with over 12+ functions and scripts custom made for client use.<br>In development over 2 mounts from now.</p>
+   <a href="https://discord.gg/rDEWg4zxcW" target="_blank"><img src="https://img.shields.io/discord/1185906126022266920?logo=discord&label=Bugs%20and%20Reports!&color=eb4034">
   <h3>Required executer functions</h3>
   <p class="discription">• firetouchinterest<br>• setclipboard<br>• fireclickdetector<br>• request<br>• getasset</p>
 </div>
 <div align="left">
-  <h2>Loadstring</h2>
+  <h3>Loadstring</h3>
     <a href="https://discordapp.com/users/1093061434600075364" target="_blank"><img src="https://img.shields.io/badge/Developer-w2pr-blue"></img></a>  
   </img></a>
 </div>
